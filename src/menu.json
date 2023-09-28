@@ -1,0 +1,36 @@
+
+{
+  "menu": [
+    {
+      "item": "Cappuccino",
+      "category": "Coffee",
+      "price": "$3.99",
+      "description": "A rich and creamy espresso-based coffee topped with frothy milk foam."
+    },
+    {
+      "item": "Espresso",
+      "category": "Coffee",
+      "price": "$2.99",
+      "description": "A bold and intense shot of pure coffee goodness, perfect for the espresso purists."
+    },
+    {
+      "item": "Chocolate Cake",
+      "category": "Cakes",
+      "price": "$4.99",
+      "description": "Indulge in a decadent slice of moist chocolate cake, layered with velvety chocolate ganache."
+    },
+    {
+      "item": "Iced Tea",
+      "category": "Other Beverages",
+      "price": "$2.49",
+      "description": "Cool off with a refreshing glass of iced tea, infused with your choice of flavors."
+    },
+    {
+      "item": "Fruit Smoothie",
+      "category": "Other Beverages",
+      "price": "$3.49",
+      "description": "Sip on a vibrant and refreshing fruit smoothie, bursting with natural flavors and nutrients."
+      
+    }
+  ]
+}
